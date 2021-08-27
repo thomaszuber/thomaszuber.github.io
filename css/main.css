@@ -8,21 +8,21 @@ nav ul {
     font-weight: bold;
 }
 
-footer ul {
+/* footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-}
+} */
 nav ul li {
     display: inline-block;
     vertical.align: top;
     margin-right: 20px;
 }
-footer ul li {
+/* footer ul li {
     display: inline;
     margin-right: 20px;
-}
+} */ 
 nav a {
     display: block; 
 }
