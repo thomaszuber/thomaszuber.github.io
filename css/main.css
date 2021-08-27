@@ -9,8 +9,12 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    display: inline;
+    display: inline-block;
+    vertical.align: top;
     margin-right: 20px;
+}
+nav a {
+    display: blcok; 
 }
 a {
     text-decoration: none;
