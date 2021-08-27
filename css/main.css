@@ -2,30 +2,17 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    font-weight: bold;
-}
-
-/* footer ul {
+nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-} */
-nav ul li {
-    display: inline-block;
-    vertical.align: top;
-    margin-right: 20px;
-}
-/* footer ul li {
+} 
+nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-} */ 
-nav a {
-    display: block; 
 }
+
 a {
     text-decoration: none;
     color: #999;
